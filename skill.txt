@@ -1,0 +1,9 @@
+npx skills add https://github.com/Leonxlnx/taste-skill
+npx skills add https://github.com/lukasniessen/kubernetes-skill --skill kubernetes-skill
+npx skills@latest add emilkowalski/skills
+agy plugin install https://github.com/obra/superpowers
+npx skills add dzhng/skills
+uv tool install specify-cli
+specify init my-project
+npx @cobusgreyling/loop-init .
+npx skills add nutlope/hallmark
