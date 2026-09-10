@@ -8,6 +8,7 @@ uv tool install specify-cli
 specify init my-project
 npx @cobusgreyling/loop-init .
 npx skills add nutlope/hallmark
+npx skills add usestrix/strix
 
 # Linux
 sudo apt update
@@ -26,3 +27,4 @@ uv tool install specify-cli
 specify init my-project
 npx @cobusgreyling/loop-init .
 npx skills add nutlope/hallmark
+npx skills add usestrix/strix
